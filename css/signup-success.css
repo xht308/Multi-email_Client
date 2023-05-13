@@ -1,0 +1,39 @@
+/* Set the body background color and font family */
+body {
+    background-color: #f7f7f7;
+    font-family: 'Helvetica Neue', sans-serif;
+  }
+  
+  /* Set the container width and center it on the page */
+  .container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    
+  }
+
+  div{
+    border: 2px solid black;
+    border-radius: 5px;
+  }
+  
+  /* Set the title font size and color */
+  h1 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  /* Set the message font size and color */
+  p {
+    margin-top: 10px;
+    text-align: center;
+  }
+  a {
+    color: #4CAF50;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }  
